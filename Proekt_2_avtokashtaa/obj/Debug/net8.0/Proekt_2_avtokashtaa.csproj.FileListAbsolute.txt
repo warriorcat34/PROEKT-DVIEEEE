@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Programirane\Proekt_2_avtokashtaa\Proekt_2_avtokashtaa\bin\Debug\net8.0\Proekt_2_avtokashtaa.exe
+C:\Users\Admin\Desktop\Programirane\Proekt_2_avtokashtaa\Proekt_2_avtokashtaa\bin\Debug\net8.0\Proekt_2_avtokashtaa.deps.json
+C:\Users\Admin\Desktop\Programirane\Proekt_2_avtokashtaa\Proekt_2_avtokashtaa\bin\Debug\net8.0\Proekt_2_avtokashtaa.runtimeconfig.json
+C:\Users\Admin\Desktop\Programirane\Proekt_2_avtokashtaa\Proekt_2_avtokashtaa\bin\Debug\net8.0\Proekt_2_avtokashtaa.dll
+C:\Users\Admin\Desktop\Programirane\Proekt_2_avtokashtaa\Proekt_2_avtokashtaa\bin\Debug\net8.0\Proekt_2_avtokashtaa.pdb
+C:\Users\Admin\Desktop\Programirane\Proekt_2_avtokashtaa\Proekt_2_avtokashtaa\obj\Debug\net8.0\Proekt_2_avtokashtaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Programirane\Proekt_2_avtokashtaa\Proekt_2_avtokashtaa\obj\Debug\net8.0\Proekt_2_avtokashtaa.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Programirane\Proekt_2_avtokashtaa\Proekt_2_avtokashtaa\obj\Debug\net8.0\Proekt_2_avtokashtaa.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Programirane\Proekt_2_avtokashtaa\Proekt_2_avtokashtaa\obj\Debug\net8.0\Proekt_2_avtokashtaa.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Programirane\Proekt_2_avtokashtaa\Proekt_2_avtokashtaa\obj\Debug\net8.0\Proekt_2_avtokashtaa.dll
+C:\Users\Admin\Desktop\Programirane\Proekt_2_avtokashtaa\Proekt_2_avtokashtaa\obj\Debug\net8.0\refint\Proekt_2_avtokashtaa.dll
+C:\Users\Admin\Desktop\Programirane\Proekt_2_avtokashtaa\Proekt_2_avtokashtaa\obj\Debug\net8.0\Proekt_2_avtokashtaa.pdb
+C:\Users\Admin\Desktop\Programirane\Proekt_2_avtokashtaa\Proekt_2_avtokashtaa\obj\Debug\net8.0\Proekt_2_avtokashtaa.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Programirane\Proekt_2_avtokashtaa\Proekt_2_avtokashtaa\obj\Debug\net8.0\ref\Proekt_2_avtokashtaa.dll
